@@ -1,7 +1,7 @@
 
 # Introduction
 
-`Motion planning` plans the state sequence of the robot without conflict between the start and goal. 
+`Motion planning` plans the state sequence of the drone without conflict between the start and goal. 
 
 `Motion planning` mainly includes `Path planning` and `Trajectory planning`.
 
