@@ -1,4 +1,4 @@
-# User Studies: Robotic Hand Latency Perception
+# Analysis of Variance: Robotic Hand Latency Perception
 
 ## Overview
 
@@ -153,3 +153,5 @@ Based on `run_anova_questions.py` and `posthoc_latency_tests.py`:
 - Embodiment (`It felt like the robot was part of my body`): no significant main effect (F(4,120)=0.58, p=0.68, partial eta²≈0.02). Means are broadly flat across latencies (≈2.74–3.00), and all pairwise contrasts are non-significant.
 
 See `anova_results.csv` for omnibus stats and `posthoc_latency_pairs.csv` for pairwise details.
+
+Thanks to Kristine and Jonas for their contributions and insights.
